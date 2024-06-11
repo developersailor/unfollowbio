@@ -1,4 +1,4 @@
-import tweepy
+import tweetpy
 
 # Twitter API anahtarlarınızı burada tanımlayın
 api_key = 'YOUR_API_KEY'
